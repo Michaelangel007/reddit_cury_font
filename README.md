@@ -1,10 +1,14 @@
 # Cury Font
 
+Original
+
 * ![Original](Cury_TR12_original.png)
 
-* ![Fixed](Cury_TR12_fixed_v2.png)
+Fixed
 
-The [fixed](Cury_TR12_fixed_v2.xcf) GIMP source `.xcf` has been provided.
+* ![Fixed](Cury_TR12_fixed_v3.png)
+
+The [fixed](Cury_TR12_fixed_v3.xcf) GIMP source `.xcf` has been provided.
 
 # Glyphs fixed
 
@@ -19,8 +23,9 @@ The [fixed](Cury_TR12_fixed_v2.xcf) GIMP source `.xcf` has been provided.
 * Hash has both top and bottom horizontal lines flush
 * Dollar sign `$` has slash straightened
 * Dollar sign `$` height is now symmetrical top and bottom
-* Dot in the comma `,` matches the period .
-* Top bar on the 5 is one pixel longer to the right
+* Dot in the comma `,` matches the period `.`
+* Forward slash `/` height is now symmetrical top and bottom
+* Top bar on the `5` is one pixel longer to the right
 * Dot in the semicolon `;` matches the the period `.`
 
 ## Uppercase
@@ -37,14 +42,14 @@ The [fixed](Cury_TR12_fixed_v2.xcf) GIMP source `.xcf` has been provided.
 * Uppercase `X` is now centered horizontally within the character cell
 * Uppercase `Z` is now centered horizontally
 * Square brackets `[` and `]` are now centered both vertically and horizontally within the character cell
-* Backslash \ is now centered horizontally
-* Backslash \ is now extended by 2 pixels on the top left to match the brackets
+* Backslash `\` is now centered horizontally
+* Backslash `\` is now extended by 2 pixels on the top left to match the brackets
 * Caret `^` is now centered horizontally within the character cell
 * Underscore `_` is now the full character cell width
 
 ## Lowercase
 
-* Backtick `\` height now matches the single and double quote height
+* Backtick `\`` height now matches the single and double quote height
 * Lowercase `c` matches tch the lowercase `d`
 * Ends of the lowercase `c` match the uppercase `C`
 * Horizontal bar on the lowercase `f` matches the x-height (lowercase height of the other letters)
