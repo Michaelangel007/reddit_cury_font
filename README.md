@@ -49,7 +49,7 @@ The [fixed](Cury_TR12_fixed_v3.xcf) GIMP source `.xcf` has been provided.
 
 ## Lowercase
 
-* Backtick ````` height now matches the single and double quote height
+* Backtick `` ` `` height now matches the single and double quote height
 * Lowercase `c` matches tch the lowercase `d`
 * Ends of the lowercase `c` match the uppercase `C`
 * Horizontal bar on the lowercase `f` matches the x-height (lowercase height of the other letters)
